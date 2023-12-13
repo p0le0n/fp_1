@@ -1,0 +1,7 @@
+vk_app_id: 51757816
+vk_access_token: vk1.a.TLwrJEborcUvxLkn4uxooatpqD9sRQ5MGfCVykD6bqvd1-Gpq8hDiVNHxgKJAi3t2zM0u7TIL7Gqd3aHqZ4ytsWwgf0LwrwumRGt904yt4Vv7SithqeW-jBWBuwGigzIEsz7raBURltsDIrsPwKLrgCWGY_1trppefm8AMMF3qpBvPXVJePG9MgV7UoIEjLPP8F_joxlB2FicLEwOs7xNg
+vk_pages: 1,53083705,5592362,53636214,39377403
+tg_phone: +79219129093
+tg_api: 28454298
+tg_hash: e07a8a187afff2372208045ad97e7521
+tg_channels: murza4ch,mmindatrade
